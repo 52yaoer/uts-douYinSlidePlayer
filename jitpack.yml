@@ -1,3 +1,3 @@
 install:
-  - FILE="-Dfile=douYinSlidePlayer-2.0.aar"
-  - mvn install:install-file $FILE -DgroupId=com.apicloud.douyin -DartifactId=test -Dversion=2.0 -Dpackaging=aar -DgeneratePom=true
+  - FILE="-Dfile=douYinSlidePlayer-2.1.aar"
+  - mvn install:install-file $FILE -DgroupId=com.apicloud.douyin -DartifactId=test -Dversion=2.1 -Dpackaging=aar -DgeneratePom=true
